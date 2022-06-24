@@ -20,8 +20,8 @@
 바로가기 : https://github.com/gjrkdgh0772/Semi_project2/blob/main/%ED%98%B8%EC%8B%9D%ED%98%95%EA%B8%B0%EC%97%85%EB%8F%84%EC%82%B0%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8pdf.pdf
 
 
-
-
 ![image](https://user-images.githubusercontent.com/102206325/175487494-2d180678-9754-4dd0-8887-0577648e1045.png)
 ![image](https://user-images.githubusercontent.com/102206325/175484737-03a2b2af-525e-404a-919d-7a32be5a6a8f.png)
 ![image](https://user-images.githubusercontent.com/102206325/175484926-5b393020-d386-41d5-b71e-b04ff99a3003.png)
+![ppt1](https://user-images.githubusercontent.com/102206325/175488058-925dc537-f0ba-4556-b1c1-010717878085.png)
+![ppt2](https://user-images.githubusercontent.com/102206325/175488065-032644ea-bc26-4f49-9a00-3cccb40c5888.png)
