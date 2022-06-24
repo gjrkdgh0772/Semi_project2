@@ -15,7 +15,10 @@
 
 
 
-자세한 프로젝트 과정은 pdf를 참고하시면 좋을것 같습니다.
+자세한 프로젝트 과정은 pdf를 참고하시면 좋을것 같습니다.<br>
+
+바로가기 : https://github.com/gjrkdgh0772/Semi_project2/blob/main/%ED%98%B8%EC%8B%9D%ED%98%95%EA%B8%B0%EC%97%85%EB%8F%84%EC%82%B0%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8pdf.pdf
+
 
 
 
